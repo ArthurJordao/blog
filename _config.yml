@@ -17,14 +17,14 @@ title: Arthur Jordão - Blog
 author: Arthur Jordão
 email: arthurbernardijordao@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  My personal blog where I write about programming and other things.
+  Meu blog pessoal, onde falo sobre programação, tecnologias e entre outras coisas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ArthurJordao.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _arthurjordao
 github_username:  ArthurJordao
 
 header_pages:
- - about.md
+ - sobre.md
 
 # Build settings
 markdown: kramdown
@@ -41,3 +41,4 @@ disqus:
   shortname: arthurjordao
 
 google_analytics: UA-97877003-1
+lang: pt-BR
