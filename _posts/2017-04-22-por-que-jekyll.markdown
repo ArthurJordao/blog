@@ -27,7 +27,7 @@ então elimina a necessicade de um servidor php que exige mais processamento e m
 estáticos.
 
 ## 2. Jekyll é mais rápido.
-O WordPress é processador de forma dinâmica, então toda a solicitação feita ao servidor demanda de chamadas ao
+O WordPress é processado de forma dinâmica, então toda a solicitação feita ao servidor demanda de chamadas ao
 banco de dados, processamento de variáveis etc. Enquanto o jekyll é totalmente estático, então não necessita de
 nenhum processamento de dados no servidor e o jekyll ainda oferece optimizações como:
 * Host inteiramente em nginx.
