@@ -44,3 +44,6 @@ disqus:
 google_analytics: UA-97877003-1
 lang: pt-BR
 paginate: 5
+
+minima:
+  date_format: "%d/%m/%Y"
