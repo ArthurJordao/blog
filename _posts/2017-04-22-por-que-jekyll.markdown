@@ -3,7 +3,7 @@ layout: post
 title:  "Por que jekyll?"
 date:   2017-04-22 10:12:35 -0300
 categories: Desenvolvimento
-excerpt: Motivos para eu ter escrito o blog em jekyll
+excerpt: Motivos para eu ter escrito o blog em jekyll.
 ---
 Quando temos a ideia de escrever um blog sempre vem a mente em faze-lo com o famoso wordpress, mas nem sempre
 precisamos de uma ferramente tão sofisticada quanto o wordpress e esse foi meu caso e talvez seja o seu também,

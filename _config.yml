@@ -31,6 +31,7 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -42,3 +43,4 @@ disqus:
 
 google_analytics: UA-97877003-1
 lang: pt-BR
+paginate: 5
