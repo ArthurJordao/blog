@@ -6,7 +6,7 @@ categories: Desenvolvimento
 excerpt: Motivos para eu ter escrito o blog em jekyll.
 ---
 Quando temos a ideia de escrever um blog sempre vem a mente em faze-lo com o famoso wordpress, mas nem sempre
-precisamos de uma ferramente tão sofisticada quanto o wordpress e esse foi meu caso e talvez seja o seu também,
+precisamos de uma ferramenta tão sofisticada quanto o wordpress e esse foi meu caso e talvez seja o seu também,
 então vejamos quais foram os pontos que me levaram a usar o jekyll.
 
 ## Introdução ao Jekyll
