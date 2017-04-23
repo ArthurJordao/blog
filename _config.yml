@@ -47,3 +47,5 @@ paginate: 5
 
 minima:
   date_format: "%d/%m/%Y"
+sass:
+    style: compressed
