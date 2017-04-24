@@ -2,7 +2,7 @@
 layout: post
 title:  "Por que você deveria utilizar Linux."
 date:   2017-04-23 22:12:40 -0300
-categories: Desenvolvimento
+categories: Dicas
 excerpt: "Sou um usuário de Linux a muito tempo. Desde quando eu tinha algo por volta de meus 11 anos e instalei o ubuntu
 10.04 em dual boot em meu notebook. A partir disso, sempre usei Linux em meus dispositivos. Agora eu irei mostrar
 alguns pontos que me fizeram usar Linux e o porquê você também deveria usa-lo."
