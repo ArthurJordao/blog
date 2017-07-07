@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Por que você deveria utilizar Linux."
+title:  "Por que você deveria utilizar Linux"
 date:   2017-04-23 22:12:40 -0300
 categories: Dicas
 excerpt: "Sou um usuário de Linux a muito tempo. Desde quando eu tinha algo por volta de meus 11 anos e instalei o ubuntu
