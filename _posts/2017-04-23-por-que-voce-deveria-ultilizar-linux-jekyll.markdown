@@ -35,7 +35,7 @@ Então, você não precisa comprar um antivírus pago, ou utilizar um gratuito.
 Existem várias distribuições, interfaces gráficas, temas etc no mundo Linux, então você pode personalizar
 tecnicamente tudo desde a versão do kernel até a interface gráfica. Sendo assim você pode escolher uma interface
 mais leve para seu computador mais antigo e uma interface linda para seu computador mais parrudo.
-![Foto da distribuição KDE neon, a distribuição feita pela comunidade do KDE.]({{ site.url }}/assets/images/2017/april/kde-neon.png)
+![Foto da distribuição KDE neon, a distribuição feita pela comunidade do KDE.]({{ site.url }}/{{ site.baseurl }}/assets/images/2017/april/kde-neon.png)
 
 Uma das interfaces mais customizáveis é o KDE.
 
