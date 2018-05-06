@@ -52,4 +52,4 @@ Há várias formas de você encontrar uma solução mais simples e eficaz, explo
 
 Saiba que a solução mais simples pode estar mais próxima do que você imagina.
 
-![Frase de Leonardo da Vinci: "A simplicidade é o último grau de sofisticação"]({{ site.url }}/assets/images/2017/april/simplicidade-leonando-da-vinci.jpg)
+![Frase de Leonardo da Vinci: "A simplicidade é o último grau de sofisticação"]({{ site.url }}/{{ site.baseurl }}/assets/images/2017/april/simplicidade-leonando-da-vinci.jpg)
