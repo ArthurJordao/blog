@@ -18,7 +18,7 @@ páginas fixas e posts.
 
 Você pode depois simplesmente fazer o upload para qualquer servidor web e seu blog estará funcionando.
 
-## 1. Custo de host.
+## 1. Custo de host
 Quando fazemos um blog em wordpress uma das coisas que encarece o custo é o host, onde pagamos algo em torno de 10
 reais ao mês para um blog de pequeno porte.
 
@@ -26,7 +26,7 @@ Enquanto isso você consegue host totalmente grátis com o jekyll como o do GitH
 então elimina a necessidade de um servidor php que exige mais processamento e memória que um servidor de arquivos
 estáticos.
 
-## 2. Jekyll é mais rápido.
+## 2. Jekyll é mais rápido
 O WordPress é processado de forma dinâmica, então toda a solicitação feita ao servidor demanda de chamadas ao
 banco de dados, processamento de variáveis etc. Enquanto o jekyll é totalmente estático, então não necessita de
 nenhum processamento de dados no servidor e o jekyll ainda oferece otimização como:
@@ -35,7 +35,7 @@ nenhum processamento de dados no servidor e o jekyll ainda oferece otimização 
 * Evita o uso de plugins pesados para cacheamento.
 * Tem melhor controle nos temas.
 
-## 3. WordPress é complexo.
+## 3. WordPress é complexo
 WordPress hoje em dia é um grande framework PHP para blogs, sites etc o que leva a uma grande quantidade de
 ferramentas que para um blog simples não é necessário.
 
@@ -48,14 +48,14 @@ o editor do GitHub, ou o Sublime Text.
 mais facilmente do que o WordPress o seu blog fica bem mais em seu controle, o que facilita a manutenção nele e
 prevenir que ele quebre.
 
-## 4. Wordpress é um grande alvo para hackers.
+## 4. Wordpress é um grande alvo para hackers
 Por vários sites no mundo inteiro serem feitos em WordPress, ele acaba sendo um grande alvo de ataques de todos os
 tipos.
 
 Jekyll, em contrapartida serve somente arquivos estáticos, então não haverá nenhum arquivo dinâmico que poderá
 ser explorado por ataques hackers.
 
-## 5. Jekyll é fácil para aprender.
+## 5. Jekyll é fácil para aprender
 Jekyll tem vários temas prontos e fáceis de se customizar em poucas linhas de código sem você precisar saber muito
 mais do que simples html.
 
