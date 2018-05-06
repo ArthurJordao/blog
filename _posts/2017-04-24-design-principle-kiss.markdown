@@ -14,7 +14,7 @@ KISS é um princípio de projeto formado, no decorrer do ano de 1960, pela marin
 
 Esse acrônimo vem sendo adotado por vários militares americanos e tem sido muito utilizado também no campo de desenvolvimento de software.
 
-## Onde utilizar este princípio.
+## Onde utilizar este princípio
 
 Como desenvolvedor, posso afirmar que este princípio é muito útil, pois ensina a melhorar a organização em seu código e a deixa-lo mais legível, como esses exemplos de pseudocódigo:
 
