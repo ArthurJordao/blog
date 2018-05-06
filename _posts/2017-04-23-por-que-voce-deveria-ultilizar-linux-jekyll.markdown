@@ -109,7 +109,7 @@ drivers e codecs.
 Você pode também escolher entre as interfaces gráficas dá distribuição como o unity (Ubuntu), KDE (kubuntu), xfce
 (Xubuntu), lxde (lubuntu), gnome (Ubuntu gnome), entre outros.
 
-![Foto do ubuntu]({{ site.url }}/assets/images/2017/april/ubuntu.jpg)
+![Foto do ubuntu]({{ site.url }}/{{ site.baseurl}}/assets/images/2017/april/ubuntu.jpg)
 
 Ubuntu é uma das distribuições mais famosas e utilizadas no mundo Linux.
 
