@@ -56,7 +56,7 @@ Além disso, você pode usar a implementação do shell que você preferir como 
 O Ubuntu, uma das distribuições mais usadas do Linux, necessita de somente 512 megabytes de memória ram o que faz
 com que ele rode até em computadores mais modesto, além de que há distribuições ainda mais leves no mercado que
 farão seu computador voar de tão rápido!
-![Foto da distribuição xubuntu.]({{ site.url }}/assets/images/2017/april/xubuntu.png)
+![Foto da distribuição xubuntu.]({{ site.url }}/{{ site.baseurl }}/assets/images/2017/april/xubuntu.png)
 
 Xubuntu é uma distribuição muito leve e customizável.
 
@@ -96,7 +96,7 @@ instalar drivers.
 
 O Linux Mint oferece versões com as interfaces xfce, KDE, Cinnamon e MATE.
 
-![Foto da distribuição Linux Mint]({{ site.url }}/assets/images/2017/april/linux-mint.png)
+![Foto da distribuição Linux Mint]({{ site.url }}/{{ site.baseurl }}/assets/images/2017/april/linux-mint.png)
 
 Linux Mint é conhecido por facilidades aos novos usuários linux e interface parecida com o Windows.
 
